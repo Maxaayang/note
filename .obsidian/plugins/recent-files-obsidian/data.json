@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "git",
+      "path": "The Missing Semester/git.md"
+    },
+    {
+      "basename": "note",
+      "path": "note.md"
+    },
+    {
+      "basename": "计网",
+      "path": "八股文/计网.md"
+    },
+    {
+      "basename": "Pasted image 20221130094029",
+      "path": "八股文/Attachments/Pasted image 20221130094029.png"
+    },
+    {
+      "basename": "Pasted image 20221130093234",
+      "path": "八股文/Attachments/Pasted image 20221130093234.png"
+    },
+    {
+      "basename": "C++",
+      "path": "八股文/C++.md"
+    },
+    {
+      "basename": "算法基础课",
+      "path": "algorithm/acwing/算法基础课.md"
+    },
+    {
+      "basename": "递归",
+      "path": "algorithm/递归.md"
+    },
+    {
+      "basename": "回溯",
+      "path": "algorithm/回溯.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "八股文/操作系统.md"
+    },
+    {
+      "basename": "动态内存分配",
+      "path": "OS/深入理解计算机系统/i-虚拟内存/动态内存分配.md"
+    },
+    {
+      "basename": "数据库",
+      "path": "八股文/数据库.md"
+    },
+    {
+      "basename": "自顶向下",
+      "path": "Network/自顶向下.md"
+    },
+    {
+      "basename": "零拷贝",
+      "path": "OS/零拷贝.md"
+    },
+    {
+      "basename": "算法",
+      "path": "八股文/算法.md"
+    },
+    {
+      "basename": "内存分配",
+      "path": "C++/内存管理/内存分配.md"
+    },
+    {
+      "basename": "垃圾回收",
+      "path": "OS/深入理解计算机系统/i-虚拟内存/垃圾回收.md"
+    },
+    {
+      "basename": "存储器抽象：地址空间",
+      "path": "OS/现代操作系统/内存管理/存储器抽象：地址空间.md"
+    },
+    {
+      "basename": "虚拟内存",
+      "path": "OS/现代操作系统/内存管理/虚拟内存.md"
+    },
+    {
+      "basename": "页面置换算法",
+      "path": "OS/现代操作系统/内存管理/页面置换算法.md"
+    },
+    {
+      "basename": "QA",
+      "path": "OS/操作系统真象还原/QA.md"
+    },
+    {
+      "basename": "红黑树",
+      "path": "algorithm/红黑树.md"
+    },
+    {
+      "basename": "第二章：数据模型与查询语言",
+      "path": "database/ddia/第二章：数据模型与查询语言.md"
+    },
+    {
+      "basename": "24-distributedolap_note",
+      "path": "24-distributedolap_note.pdf"
+    },
+    {
+      "basename": "课程概览与Shell",
+      "path": "The Missing Semester/课程概览与Shell.md"
+    },
+    {
+      "basename": "GFS7.excalidraw",
+      "path": "Excalidraw/GFS7.excalidraw.md"
+    },
+    {
+      "basename": "第九章：一致性与共识",
+      "path": "database/ddia/第九章：一致性与共识.md"
+    },
+    {
+      "basename": "并发控制",
+      "path": "database/15445/并发控制.md"
+    },
+    {
+      "basename": "nineBag",
+      "path": "algorithm/nineBag.md"
+    },
+    {
+      "basename": "Debugging and Profiling",
+      "path": "The Missing Semester/Debugging and Profiling.md"
+    },
+    {
+      "basename": "调试及性能分析",
+      "path": "The Missing Semester/调试及性能分析.md"
+    },
+    {
+      "basename": "Pasted image 20221017220639",
+      "path": "The Missing Semester/Attachments/Pasted image 20221017220639.png"
+    },
+    {
+      "basename": "command-line environment",
+      "path": "The Missing Semester/command-line environment.md"
+    },
+    {
+      "basename": "堆、栈、RAII",
+      "path": "C++/现代C++编程实战/堆、栈、RAII.md"
+    },
+    {
+      "basename": "5.6-struct",
+      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.6-struct.md"
+    },
+    {
+      "basename": "5.4-risc-v-ji-cun-qi",
+      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.4-risc-v-ji-cun-qi.md"
+    },
+    {
+      "basename": "5.5-stack",
+      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.5-stack.md"
+    },
+    {
+      "basename": "5.3-risc-v-and-x86",
+      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.3-risc-v-and-x86.md"
+    },
+    {
+      "basename": "5.2-risc-v-vs-x86",
+      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.2-risc-v-vs-x86.md"
+    },
+    {
+      "basename": "5.3-gdb-he-hui-bian-dai-ma-zhi-hang",
+      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.3-gdb-he-hui-bian-dai-ma-zhi-hang.md"
+    },
+    {
+      "basename": "5.2-the-process-of-converting-c-to-assembly",
+      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.2-the-process-of-converting-c-to-assembly.md"
+    },
+    {
+      "basename": "5.1-introduction-to-lecture05",
+      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.1-introduction-to-lecture05.md"
+    },
+    {
+      "basename": "image (217)",
+      "path": "OS/MIT6.S081/gitbook/assets/image (217).png"
+    },
+    {
+      "basename": "image5.1-01",
+      "path": "OS/MIT6.S081/gitbook/assets/image5.1-01.png"
+    },
+    {
+      "basename": "image (216) (1) (1) (1)",
+      "path": "OS/MIT6.S081/gitbook/assets/image (216) (1) (1) (1).png"
+    },
+    {
+      "basename": "image (214)",
+      "path": "OS/MIT6.S081/gitbook/assets/image (214).png"
+    },
+    {
+      "basename": "image (213)",
+      "path": "OS/MIT6.S081/gitbook/assets/image (213).png"
+    },
+    {
+      "basename": "image (212)",
+      "path": "OS/MIT6.S081/gitbook/assets/image (212).png"
+    },
+    {
+      "basename": "image (211)",
+      "path": "OS/MIT6.S081/gitbook/assets/image (211).png"
+    },
+    {
+      "basename": "image (21)",
+      "path": "OS/MIT6.S081/gitbook/assets/image (21).png"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

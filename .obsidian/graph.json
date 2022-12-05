@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:操作系统",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Linux",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:database",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.8,
+  "nodeSizeMultiplier": 1.37487098623853,
+  "lineSizeMultiplier": 2.09132740825688,
+  "collapse-forces": true,
+  "centerStrength": 0.721043577981651,
+  "repelStrength": 11.3331422018349,
+  "linkStrength": 0.231664540816327,
+  "linkDistance": 101,
+  "scale": 0.24461790001558653,
+  "close": false
+}

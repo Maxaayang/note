@@ -1,0 +1,52 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "pdf-anno-yaml",
+      "id": "c0c46353-945c-4d27-bc9a-2120466a932a",
+      "commands": [
+        {
+          "name": "新建yaml",
+          "type": "NestedChoice",
+          "id": "50666dd7-c42b-4d4b-a74b-d9a48e5ef175",
+          "choice": {
+            "id": "30a1acd6-b4ba-46ac-8d24-bb3fc75fbfe5",
+            "name": "新建yaml",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "<%*\n  let str_clip1 = await tp.system.clipboard();\n  const nl = String.fromCharCode(10);\n  const str_clip = str_clip1 + \"\";\n  out_str = \"---\" + nl + nl + \"annotate-target: \" + str_clip + nl\n+ \"annotate-type: pdf\" + nl + \"---\" + nl;\nconsole.log('写入文件字符为:' + out_str);\n\nconst tfile = this.app.workspace.getActiveFile();\nconst tfolder = tfile.parent;\nfile_name = str_clip.substring(str_clip.lastIndexOf(\"/\")+1).replaceAll(\".pdf\",\"\");\nawait tp.file.create_new(\n    template = out_str,\n    filename = file_name,\n    open_new = true,\n    folder = tfolder\n);\n%>"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "3b6c618a329ad203",
+    "type": "split",
+    "children": [
+      {
+        "id": "d593ca8bbe345ff6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "操作系统/现代操作系统/进程与线程/线程.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a6eeca95b46510d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e560f582ed218798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2886088a4c7fba1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "609cb6598c47994e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe767e2b69fa9dc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fd62f4a0c6055d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3201d45f23149938",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "操作系统/现代操作系统/进程与线程/线程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4bb4172e4b3a1cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "操作系统/现代操作系统/进程与线程/线程.md"
+              }
+            }
+          },
+          {
+            "id": "beec553847d9a091",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f25ea0d536d8e075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "操作系统/现代操作系统/进程与线程/线程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "247c22f0a3848fa5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "e56c6bf05e386e03",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254,
+    "collapsed": true
+  },
+  "active": "d593ca8bbe345ff6",
+  "lastOpenFiles": [
+    "操作系统/现代操作系统/进程与线程/线程.md",
+    "操作系统/现代操作系统/进程与线程/进程.md",
+    "操作系统/深入理解计算机系统/h-异常控制流/进程控制.md",
+    "操作系统/深入理解计算机系统/i-虚拟内存/内存映射.md",
+    "操作系统/现代操作系统/索引.md",
+    "操作系统/现代操作系统/引论/什么是操作系统.md",
+    "算法/递归.md",
+    "Linux/Linux 高性能服务器编程/多进程编程.md",
+    "面经.md",
+    "课题/VAE/Auto-Encoding Variational Bayes.md"
+  ]
+}

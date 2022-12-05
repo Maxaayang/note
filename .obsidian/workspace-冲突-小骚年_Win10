@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "8be5710dfc436c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac30741bef79209",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C++/C++ Primer/Sec_3 字符串、向量和数组/3.4、迭代器.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a6eeca95b46510d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e560f582ed218798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2886088a4c7fba1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "609cb6598c47994e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "iterator",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe767e2b69fa9dc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fd62f4a0c6055d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3201d45f23149938",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/C++ Primer/Sec_3 字符串、向量和数组/3.4、迭代器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fac30741bef79209",
+  "lastOpenFiles": [
+    "C++/C++ Primer/Sec_3 字符串、向量和数组/3.4、迭代器.md",
+    "C++/C++ Primer/Sec_3 字符串、向量和数组/3.5、数组.md",
+    "算法/算法（第四版）/Sec_2 排序/2.1、初级排序算法.md",
+    "C++/C++ Primer/Sec_3 字符串、向量和数组/3.6、多维数组.md",
+    "未命名.md",
+    "C++/C++ Primer/Sec_4 表达式/4.1、基础.md",
+    "C++/C++ Primer/Sec_2 变量与基本类型/2.5、处理类型.md",
+    "C++/C++ Primer/Sec_3 字符串、向量和数组/多维数组.md",
+    "C++/C++ Primer/Sec_3 字符串、向量和数组/数组.md",
+    "C++/C++ Primer/Sec_3 字符串、向量和数组/迭代器.md"
+  ]
+}

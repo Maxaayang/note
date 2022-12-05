@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "3b6c618a329ad203",
+    "type": "split",
+    "children": [
+      {
+        "id": "accbad57df97a22d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/how-to-dev-using-docker.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a6eeca95b46510d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e560f582ed218798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "609cb6598c47994e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "308ac4379c072435",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b1afd6e3f4a47b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "105c87163c926410",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/GFS7.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c3b8b01ce74bd0d1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cc99abd39dda6bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "right": {
+    "id": "fe767e2b69fa9dc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fd62f4a0c6055d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb4172e4b3a1cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/how-to-dev-using-docker.md"
+              }
+            }
+          },
+          {
+            "id": "beec553847d9a091",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f25ea0d536d8e075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/how-to-dev-using-docker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "291b5913c063eaa8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b4225de970e04ac",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "281d97bcf21f1728",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd567ab918970d45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/how-to-dev-using-docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21d8d8f37a382ea6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf0b11a3b5bfa070",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "active": "accbad57df97a22d",
+  "lastOpenFiles": [
+    "note.md",
+    "docs/how-to-dev-using-docker.md",
+    "docs/how_to_dev_miniob_by_vscode.md",
+    "docs/miniob-output-convention.md",
+    "docs/miniob-introduction.md",
+    "docs/how_to_dev_miniob_by_docker_on_windows.md",
+    "docs/how_to_build.md",
+    "docs/README.md",
+    "docs/miniob_topics.md",
+    "The Missing Semester/command-line environment.md"
+  ]
+}

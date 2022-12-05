@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "GFS",
+      "path": "6.824/GFS.md"
+    },
+    {
+      "basename": "Lec 2 RPC和多线程",
+      "path": "6.824/Lec 2 RPC和多线程.md"
+    },
+    {
+      "basename": "Shell 脚本工具",
+      "path": "The Missing Semester/Shell 脚本工具.md"
+    },
+    {
+      "basename": "The Google File System",
+      "path": "6.824/The Google File System.md"
+    },
+    {
+      "basename": "level db",
+      "path": "database/level db.md"
+    },
+    {
+      "basename": "Lec 1",
+      "path": "6.824/Lec 1.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "C++/面向对象高级编程/未命名.md"
+    },
+    {
+      "basename": "检索技术核心20讲",
+      "path": "database/tianchi/检索技术核心20讲.md"
+    },
+    {
+      "basename": "MySQL操作",
+      "path": "database/MySQL操作.md"
+    },
+    {
+      "basename": "韩顺平",
+      "path": "database/韩顺平.md"
+    },
+    {
+      "basename": "MySQL技术内幕 InnoDB存储引擎",
+      "path": "database/MySQL技术内幕 InnoDB存储引擎.md"
+    },
+    {
+      "basename": "MySQL实战45讲",
+      "path": "database/MySQL实战45讲.md"
+    },
+    {
+      "basename": "线程管理",
+      "path": "C++/C++ 并发编程实战/线程管理.md"
+    },
+    {
+      "basename": "动态内存分配",
+      "path": "OS/深入理解计算机系统/i-虚拟内存/动态内存分配.md"
+    },
+    {
+      "basename": "内存映射",
+      "path": "OS/深入理解计算机系统/i-虚拟内存/内存映射.md"
+    },
+    {
+      "basename": "地址翻译",
+      "path": "OS/深入理解计算机系统/i-虚拟内存/地址翻译.md"
+    },
+    {
+      "basename": "虚拟内存的作用",
+      "path": "OS/深入理解计算机系统/i-虚拟内存/虚拟内存的作用.md"
+    },
+    {
+      "basename": "虚拟内存作为缓存的工具",
+      "path": "OS/深入理解计算机系统/i-虚拟内存/虚拟内存作为缓存的工具.md"
+    },
+    {
+      "basename": "虚拟内存的基本概念",
+      "path": "OS/深入理解计算机系统/i-虚拟内存/虚拟内存的基本概念.md"
+    },
+    {
+      "basename": "第一部分：数据系统基础",
+      "path": "database/ddia/第一部分：数据系统基础.md"
+    },
+    {
+      "basename": "第二部分：分布式数据",
+      "path": "database/ddia/第二部分：分布式数据.md"
+    },
+    {
+      "basename": "第十一章：流处理",
+      "path": "database/ddia/第十一章：流处理.md"
+    },
+    {
+      "basename": "第十章：批处理",
+      "path": "database/ddia/第十章：批处理.md"
+    },
+    {
+      "basename": "第十二章：数据系统的未来",
+      "path": "database/ddia/第十二章：数据系统的未来.md"
+    },
+    {
+      "basename": "第三章：存储与检索",
+      "path": "database/ddia/第三章：存储与检索.md"
+    },
+    {
+      "basename": "第二章：数据模型与查询语言",
+      "path": "database/ddia/第二章：数据模型与查询语言.md"
+    },
+    {
+      "basename": "第五章：复制",
+      "path": "database/ddia/第五章：复制.md"
+    },
+    {
+      "basename": "第四章：编码与演化",
+      "path": "database/ddia/第四章：编码与演化.md"
+    },
+    {
+      "basename": "第六章：分区",
+      "path": "database/ddia/第六章：分区.md"
+    },
+    {
+      "basename": "第七章：事务",
+      "path": "database/ddia/第七章：事务.md"
+    },
+    {
+      "basename": "projects and notes",
+      "path": "database/15445/projects and notes.md"
+    },
+    {
+      "basename": "distributed",
+      "path": "database/15445/distributed.md"
+    },
+    {
+      "basename": "22-distributed_note",
+      "path": "database/15445/note/22-distributed_note.pdf"
+    },
+    {
+      "basename": "distributedoltp",
+      "path": "database/15445/distributedoltp.md"
+    },
+    {
+      "basename": "ch12",
+      "path": "database/ddia/en-us/ch12.md"
+    },
+    {
+      "basename": "fig7-1",
+      "path": "database/ddia/img/fig7-1.png"
+    },
+    {
+      "basename": "第九章：一致性与共识",
+      "path": "database/ddia/第九章：一致性与共识.md"
+    },
+    {
+      "basename": "第三部分：衍生数据",
+      "path": "database/ddia/第三部分：衍生数据.md"
+    },
+    {
+      "basename": "glossary",
+      "path": "database/ddia/glossary.md"
+    },
+    {
+      "basename": "colophon",
+      "path": "database/ddia/colophon.md"
+    },
+    {
+      "basename": "第八章：分布式系统的麻烦",
+      "path": "database/ddia/第八章：分布式系统的麻烦.md"
+    },
+    {
+      "basename": "README",
+      "path": "database/ddia/README.md"
+    },
+    {
+      "basename": "SUMMARY",
+      "path": "database/ddia/SUMMARY.md"
+    },
+    {
+      "basename": "STL标准库和泛型编程",
+      "path": "C++/STL源码剖析/STL标准库和泛型编程.md"
+    },
+    {
+      "basename": "Pasted image 20220611093056",
+      "path": "attachment/Pasted image 20220611093056.png"
+    },
+    {
+      "basename": "Pasted image 20220118135329",
+      "path": "attachment/Pasted image 20220118135329.png"
+    },
+    {
+      "basename": "Pasted image 20220119095933",
+      "path": "attachment/Pasted image 20220119095933.png"
+    },
+    {
+      "basename": "T-FM",
+      "path": "template/T-FM.md"
+    },
+    {
+      "basename": "24-distributedolap_note",
+      "path": "24-distributedolap_note.pdf"
+    },
+    {
+      "basename": "并发控制",
+      "path": "database/15445/并发控制.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
