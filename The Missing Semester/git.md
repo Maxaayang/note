@@ -19,6 +19,8 @@
 - git remote add origin ... 添加克隆地址
 
 github token: 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
+pic: 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
+
 gitee token: b05c5d7bb16cf4f55fb9c314d0d4c615
 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
 
