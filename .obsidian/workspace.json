@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dcadf3aa51fb998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "八股文/计网.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cab6b2b4bc8e45e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/acwing/算法基础课.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "229878633b901572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "八股文/C++.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "11c81ea679e5cad5",
             "type": "leaf",
             "state": {
@@ -84,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5818fb0e730e6f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股文/计网.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/acwing/算法基础课.md"
+                "file": "八股文/操作系统.md"
               }
             }
           },
@@ -190,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/acwing/算法基础课.md",
+                "file": "八股文/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/acwing/算法基础课.md",
+                "file": "八股文/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,17 +216,17 @@
     "direction": "horizontal",
     "width": 254
   },
-  "active": "1cab6b2b4bc8e45e",
+  "active": "11c81ea679e5cad5",
   "lastOpenFiles": [
-    "algorithm/回溯.md",
-    "八股文/数据库.md",
+    "Network/自顶向下.md",
     "八股文/计网.md",
+    "八股文/数据库.md",
+    "八股文/操作系统.md",
     "The Missing Semester/git.md",
-    "note.md",
+    "八股文/C++.md",
+    "database/redis.md",
+    "database/level db.md",
     "algorithm/acwing/算法基础课.md",
-    "algorithm/算法（第四版）/Sec_2 排序/2.1、初级排序算法.md",
-    "algorithm/红黑树.md",
-    "algorithm/nineBag.md",
-    "algorithm/递归.md"
+    "algorithm/回溯.md"
   ]
 }

@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "算法基础课",
-      "path": "algorithm/acwing/算法基础课.md"
+      "basename": "操作系统",
+      "path": "八股文/操作系统.md"
     },
     {
-      "basename": "回溯",
-      "path": "algorithm/回溯.md"
-    },
-    {
-      "basename": "数据库",
-      "path": "八股文/数据库.md"
+      "basename": "自顶向下",
+      "path": "Network/自顶向下.md"
     },
     {
       "basename": "计网",
       "path": "八股文/计网.md"
     },
     {
+      "basename": "数据库",
+      "path": "八股文/数据库.md"
+    },
+    {
       "basename": "git",
       "path": "The Missing Semester/git.md"
+    },
+    {
+      "basename": "C++",
+      "path": "八股文/C++.md"
+    },
+    {
+      "basename": "redis",
+      "path": "database/redis.md"
+    },
+    {
+      "basename": "level db",
+      "path": "database/level db.md"
+    },
+    {
+      "basename": "算法基础课",
+      "path": "algorithm/acwing/算法基础课.md"
+    },
+    {
+      "basename": "回溯",
+      "path": "algorithm/回溯.md"
     },
     {
       "basename": "note",
@@ -53,20 +73,8 @@
       "path": "八股文/Attachments/Pasted image 20221130093234.png"
     },
     {
-      "basename": "C++",
-      "path": "八股文/C++.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "八股文/操作系统.md"
-    },
-    {
       "basename": "动态内存分配",
       "path": "OS/深入理解计算机系统/i-虚拟内存/动态内存分配.md"
-    },
-    {
-      "basename": "自顶向下",
-      "path": "Network/自顶向下.md"
     },
     {
       "basename": "零拷贝",
@@ -191,14 +199,6 @@
     {
       "basename": "image (213)",
       "path": "OS/MIT6.S081/gitbook/assets/image (213).png"
-    },
-    {
-      "basename": "image (212)",
-      "path": "OS/MIT6.S081/gitbook/assets/image (212).png"
-    },
-    {
-      "basename": "image (211)",
-      "path": "OS/MIT6.S081/gitbook/assets/image (211).png"
     }
   ],
   "omittedPaths": [],

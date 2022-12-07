@@ -19,14 +19,15 @@
 - git remote add origin ... 添加克隆地址
 
 github token: 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
-pic: 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
+pic: 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
 
 gitee token: b05c5d7bb16cf4f55fb9c314d0d4c615
-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
+
 
 免密登录
 https://www.cnblogs.com/suugee/p/15846161.html
 https://Maxaayang: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@github.com
+https://Maxaayang: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@github.com
 
 文件夹带箭头
 - 删除文件夹中的.git
