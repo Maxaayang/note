@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "算法基础课",
+      "path": "algorithm/acwing/算法基础课.md"
+    },
+    {
+      "basename": "2.1、初级排序算法",
+      "path": "algorithm/算法（第四版）/Sec_2 排序/2.1、初级排序算法.md"
+    },
+    {
+      "basename": "数据整理",
+      "path": "The Missing Semester/数据整理.md"
+    },
+    {
+      "basename": "算法",
+      "path": "八股文/算法.md"
+    },
+    {
+      "basename": "递归",
+      "path": "algorithm/递归.md"
+    },
+    {
+      "basename": "nineBag",
+      "path": "algorithm/nineBag.md"
+    },
+    {
+      "basename": "红黑树",
+      "path": "algorithm/红黑树.md"
+    },
+    {
+      "basename": "回溯",
+      "path": "algorithm/回溯.md"
+    },
+    {
+      "basename": "git",
+      "path": "The Missing Semester/git.md"
+    },
+    {
+      "basename": "数据库",
+      "path": "八股文/数据库.md"
+    },
+    {
       "basename": "操作系统",
       "path": "八股文/操作系统.md"
     },
@@ -11,14 +51,6 @@
     {
       "basename": "计网",
       "path": "八股文/计网.md"
-    },
-    {
-      "basename": "数据库",
-      "path": "八股文/数据库.md"
-    },
-    {
-      "basename": "git",
-      "path": "The Missing Semester/git.md"
     },
     {
       "basename": "C++",
@@ -33,36 +65,8 @@
       "path": "database/level db.md"
     },
     {
-      "basename": "算法基础课",
-      "path": "algorithm/acwing/算法基础课.md"
-    },
-    {
-      "basename": "回溯",
-      "path": "algorithm/回溯.md"
-    },
-    {
       "basename": "note",
       "path": "note.md"
-    },
-    {
-      "basename": "2.1、初级排序算法",
-      "path": "algorithm/算法（第四版）/Sec_2 排序/2.1、初级排序算法.md"
-    },
-    {
-      "basename": "红黑树",
-      "path": "algorithm/红黑树.md"
-    },
-    {
-      "basename": "nineBag",
-      "path": "algorithm/nineBag.md"
-    },
-    {
-      "basename": "递归",
-      "path": "algorithm/递归.md"
-    },
-    {
-      "basename": "算法",
-      "path": "八股文/算法.md"
     },
     {
       "basename": "Pasted image 20221130094029",
@@ -195,10 +199,6 @@
     {
       "basename": "image (214)",
       "path": "OS/MIT6.S081/gitbook/assets/image (214).png"
-    },
-    {
-      "basename": "image (213)",
-      "path": "OS/MIT6.S081/gitbook/assets/image (213).png"
     }
   ],
   "omittedPaths": [],

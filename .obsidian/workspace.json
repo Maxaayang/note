@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文/操作系统.md",
+                "file": "algorithm/acwing/算法基础课.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,6 +53,19 @@
               "type": "markdown",
               "state": {
                 "file": "八股文/计网.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e2cd9d663e9a871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股文/数据库.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文/操作系统.md"
+                "file": "algorithm/acwing/算法基础课.md"
               }
             }
           },
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股文/操作系统.md",
+                "file": "algorithm/acwing/算法基础课.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股文/操作系统.md",
+                "file": "algorithm/acwing/算法基础课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,15 +231,15 @@
   },
   "active": "11c81ea679e5cad5",
   "lastOpenFiles": [
-    "Network/自顶向下.md",
-    "八股文/计网.md",
-    "八股文/数据库.md",
-    "八股文/操作系统.md",
-    "The Missing Semester/git.md",
-    "八股文/C++.md",
-    "database/redis.md",
-    "database/level db.md",
+    "algorithm/算法（第四版）/Sec_2 排序/2.1、初级排序算法.md",
+    "The Missing Semester/数据整理.md",
+    "八股文/算法.md",
+    "algorithm/递归.md",
+    "algorithm/nineBag.md",
+    "algorithm/红黑树.md",
+    "algorithm/回溯.md",
     "algorithm/acwing/算法基础课.md",
-    "algorithm/回溯.md"
+    "The Missing Semester/git.md",
+    "八股文/数据库.md"
   ]
 }
