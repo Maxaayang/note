@@ -5,6 +5,18 @@
       "path": "八股文/操作系统/陷阱、异常、中断、信号.md"
     },
     {
+      "basename": "操作系统",
+      "path": "八股文/操作系统/操作系统.md"
+    },
+    {
+      "basename": "零拷贝",
+      "path": "八股文/操作系统/零拷贝.md"
+    },
+    {
+      "basename": "git",
+      "path": "The Missing Semester/git.md"
+    },
+    {
       "basename": "算法基础课",
       "path": "algorithm/acwing/算法基础课.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "IO模型",
       "path": "八股文/操作系统/IO模型.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "八股文/操作系统/操作系统.md"
     },
     {
       "basename": "锁",
@@ -91,10 +99,6 @@
     {
       "basename": "C++",
       "path": "八股文/C++.md"
-    },
-    {
-      "basename": "git",
-      "path": "The Missing Semester/git.md"
     },
     {
       "basename": "MySQL日志",
@@ -195,10 +199,6 @@
     {
       "basename": "24-distributedolap_note",
       "path": "24-distributedolap_note.pdf"
-    },
-    {
-      "basename": "课程概览与Shell",
-      "path": "The Missing Semester/课程概览与Shell.md"
     }
   ],
   "omittedPaths": [],

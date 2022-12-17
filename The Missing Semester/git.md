@@ -20,6 +20,8 @@
 
 github token: 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
 pic: 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
+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
+
 gitee token: b05c5d7bb16cf4f55fb9c314d0d4c615
 
 
