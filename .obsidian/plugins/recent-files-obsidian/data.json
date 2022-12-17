@@ -1,8 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "陷阱、异常、中断、信号",
+      "path": "八股文/操作系统/陷阱、异常、中断、信号.md"
+    },
+    {
       "basename": "算法基础课",
       "path": "algorithm/acwing/算法基础课.md"
+    },
+    {
+      "basename": "红黑树",
+      "path": "八股文/红黑树.md"
+    },
+    {
+      "basename": "Linux下IO复用",
+      "path": "八股文/Linux下IO复用.md"
+    },
+    {
+      "basename": "内存",
+      "path": "八股文/操作系统/内存.md"
+    },
+    {
+      "basename": "地址空间",
+      "path": "八股文/操作系统/地址空间.md"
+    },
+    {
+      "basename": "IO模型",
+      "path": "八股文/操作系统/IO模型.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "八股文/操作系统/操作系统.md"
+    },
+    {
+      "basename": "锁",
+      "path": "锁.md"
+    },
+    {
+      "basename": "进程与线程",
+      "path": "八股文/操作系统/进程与线程.md"
+    },
+    {
+      "basename": "用户态与内核态",
+      "path": "八股文/操作系统/用户态与内核态.md"
+    },
+    {
+      "basename": "MySQL索引",
+      "path": "八股文/数据库/MySQL索引.md"
+    },
+    {
+      "basename": "MySQL内存",
+      "path": "八股文/数据库/MySQL内存.md"
+    },
+    {
+      "basename": "MySQL事务",
+      "path": "八股文/数据库/MySQL事务.md"
+    },
+    {
+      "basename": "计网",
+      "path": "八股文/计网.md"
+    },
+    {
+      "basename": "红黑树",
+      "path": "algorithm/红黑树.md"
+    },
+    {
+      "basename": "MySQL锁",
+      "path": "八股文/数据库/MySQL锁.md"
+    },
+    {
+      "basename": "MySQL其他",
+      "path": "八股文/数据库/MySQL其他.md"
+    },
+    {
+      "basename": "零拷贝",
+      "path": "OS/零拷贝.md"
+    },
+    {
+      "basename": "趣谈Linux操作系统",
+      "path": "OS/趣谈Linux操作系统.md"
+    },
+    {
+      "basename": "操作系统实战45讲",
+      "path": "OS/操作系统实战45讲.md"
+    },
+    {
+      "basename": "Linux内核设计与实现",
+      "path": "OS/Linux内核设计与实现.md"
+    },
+    {
+      "basename": "C++",
+      "path": "八股文/C++.md"
+    },
+    {
+      "basename": "git",
+      "path": "The Missing Semester/git.md"
+    },
+    {
+      "basename": "MySQL日志",
+      "path": "八股文/数据库/MySQL日志.md"
+    },
+    {
+      "basename": "分库、分表、主从、读写分离",
+      "path": "八股文/数据库/分库、分表、主从、读写分离.md"
+    },
+    {
+      "basename": "1.1-ke-cheng-jian-jie",
+      "path": "OS/MIT6.S081/lec01-introduction-and-examples/1.1-ke-cheng-jian-jie.md"
+    },
+    {
+      "basename": "数据库",
+      "path": "八股文/数据库.md"
+    },
+    {
+      "basename": "自顶向下",
+      "path": "Network/自顶向下.md"
     },
     {
       "basename": "2.1、初级排序算法",
@@ -25,36 +137,8 @@
       "path": "algorithm/nineBag.md"
     },
     {
-      "basename": "红黑树",
-      "path": "algorithm/红黑树.md"
-    },
-    {
       "basename": "回溯",
       "path": "algorithm/回溯.md"
-    },
-    {
-      "basename": "git",
-      "path": "The Missing Semester/git.md"
-    },
-    {
-      "basename": "数据库",
-      "path": "八股文/数据库.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "八股文/操作系统.md"
-    },
-    {
-      "basename": "自顶向下",
-      "path": "Network/自顶向下.md"
-    },
-    {
-      "basename": "计网",
-      "path": "八股文/计网.md"
-    },
-    {
-      "basename": "C++",
-      "path": "八股文/C++.md"
     },
     {
       "basename": "redis",
@@ -79,10 +163,6 @@
     {
       "basename": "动态内存分配",
       "path": "OS/深入理解计算机系统/i-虚拟内存/动态内存分配.md"
-    },
-    {
-      "basename": "零拷贝",
-      "path": "OS/零拷贝.md"
     },
     {
       "basename": "内存分配",
@@ -119,86 +199,6 @@
     {
       "basename": "课程概览与Shell",
       "path": "The Missing Semester/课程概览与Shell.md"
-    },
-    {
-      "basename": "GFS7.excalidraw",
-      "path": "Excalidraw/GFS7.excalidraw.md"
-    },
-    {
-      "basename": "第九章：一致性与共识",
-      "path": "database/ddia/第九章：一致性与共识.md"
-    },
-    {
-      "basename": "并发控制",
-      "path": "database/15445/并发控制.md"
-    },
-    {
-      "basename": "Debugging and Profiling",
-      "path": "The Missing Semester/Debugging and Profiling.md"
-    },
-    {
-      "basename": "调试及性能分析",
-      "path": "The Missing Semester/调试及性能分析.md"
-    },
-    {
-      "basename": "Pasted image 20221017220639",
-      "path": "The Missing Semester/Attachments/Pasted image 20221017220639.png"
-    },
-    {
-      "basename": "command-line environment",
-      "path": "The Missing Semester/command-line environment.md"
-    },
-    {
-      "basename": "堆、栈、RAII",
-      "path": "C++/现代C++编程实战/堆、栈、RAII.md"
-    },
-    {
-      "basename": "5.6-struct",
-      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.6-struct.md"
-    },
-    {
-      "basename": "5.4-risc-v-ji-cun-qi",
-      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.4-risc-v-ji-cun-qi.md"
-    },
-    {
-      "basename": "5.5-stack",
-      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.5-stack.md"
-    },
-    {
-      "basename": "5.3-risc-v-and-x86",
-      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.3-risc-v-and-x86.md"
-    },
-    {
-      "basename": "5.2-risc-v-vs-x86",
-      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.2-risc-v-vs-x86.md"
-    },
-    {
-      "basename": "5.3-gdb-he-hui-bian-dai-ma-zhi-hang",
-      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.3-gdb-he-hui-bian-dai-ma-zhi-hang.md"
-    },
-    {
-      "basename": "5.2-the-process-of-converting-c-to-assembly",
-      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.2-the-process-of-converting-c-to-assembly.md"
-    },
-    {
-      "basename": "5.1-introduction-to-lecture05",
-      "path": "OS/MIT6.S081/lec05-calling-conventions-and-stack-frames-risc-v/5.1-introduction-to-lecture05.md"
-    },
-    {
-      "basename": "image (217)",
-      "path": "OS/MIT6.S081/gitbook/assets/image (217).png"
-    },
-    {
-      "basename": "image5.1-01",
-      "path": "OS/MIT6.S081/gitbook/assets/image5.1-01.png"
-    },
-    {
-      "basename": "image (216) (1) (1) (1)",
-      "path": "OS/MIT6.S081/gitbook/assets/image (216) (1) (1) (1).png"
-    },
-    {
-      "basename": "image (214)",
-      "path": "OS/MIT6.S081/gitbook/assets/image (214).png"
     }
   ],
   "omittedPaths": [],

@@ -19,8 +19,7 @@
 - git remote add origin ... 添加克隆地址
 
 github token: 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
-pic: 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
-
+pic: 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
 gitee token: b05c5d7bb16cf4f55fb9c314d0d4c615
 
 
@@ -28,7 +27,7 @@ gitee token: b05c5d7bb16cf4f55fb9c314d0d4c615
 vim .git-credentials
 git config --global credential.helper store
 https://www.cnblogs.com/suugee/p/15846161.html
-https://Maxaayang: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@github.com
+https://Maxaayang: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@github.com
 
 
 文件夹带箭头

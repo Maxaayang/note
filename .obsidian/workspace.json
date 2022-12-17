@@ -4,68 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25db10ac703c6086",
+        "id": "6b324f59f2177de5",
         "type": "tabs",
         "children": [
           {
-            "id": "11c81ea679e5cad5",
+            "id": "02073b776b7a4b53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/acwing/算法基础课.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c102bf0b60e00ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/自顶向下.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a652ed7acd17a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/acwing/算法基础课.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5818fb0e730e6f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "八股文/计网.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e2cd9d663e9a871",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "八股文/数据库.md",
+                "file": "八股文/操作系统/陷阱、异常、中断、信号.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DE",
+                "query": "其他",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/acwing/算法基础课.md"
+                "file": "八股文/操作系统/陷阱、异常、中断、信号.md"
               }
             }
           },
@@ -176,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/acwing/算法基础课.md",
+                "file": "八股文/操作系统/陷阱、异常、中断、信号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/acwing/算法基础课.md",
+                "file": "八股文/操作系统/陷阱、异常、中断、信号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,17 +177,17 @@
     "direction": "horizontal",
     "width": 254
   },
-  "active": "11c81ea679e5cad5",
+  "active": "02073b776b7a4b53",
   "lastOpenFiles": [
-    "algorithm/算法（第四版）/Sec_2 排序/2.1、初级排序算法.md",
-    "The Missing Semester/数据整理.md",
-    "八股文/算法.md",
-    "algorithm/递归.md",
-    "algorithm/nineBag.md",
-    "algorithm/红黑树.md",
-    "algorithm/回溯.md",
     "algorithm/acwing/算法基础课.md",
-    "The Missing Semester/git.md",
-    "八股文/数据库.md"
+    "八股文/红黑树.md",
+    "八股文/Linux下IO复用.md",
+    "八股文/操作系统/内存.md",
+    "八股文/操作系统/地址空间.md",
+    "八股文/操作系统/IO模型.md",
+    "八股文/操作系统/操作系统.md",
+    "锁.md",
+    "八股文/操作系统/进程与线程.md",
+    "八股文/操作系统/陷阱、异常、中断、信号.md"
   ]
 }
