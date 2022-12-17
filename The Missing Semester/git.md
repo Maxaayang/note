@@ -22,6 +22,8 @@ github token: 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
 pic: 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
 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
 
+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
+
 gitee token: b05c5d7bb16cf4f55fb9c314d0d4c615
 
 
@@ -29,7 +31,7 @@ gitee token: b05c5d7bb16cf4f55fb9c314d0d4c615
 vim .git-credentials
 git config --global credential.helper store
 https://www.cnblogs.com/suugee/p/15846161.html
-https://Maxaayang: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@github.com
+https://Maxaayang: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@github.com
 
 
 文件夹带箭头

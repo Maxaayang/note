@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "陷阱、异常、中断、信号",
-      "path": "八股文/操作系统/陷阱、异常、中断、信号.md"
+      "basename": "地址空间",
+      "path": "八股文/操作系统/地址空间.md"
+    },
+    {
+      "basename": "Pasted image 20221116145445",
+      "path": "八股文/Attachments/Pasted image 20221116145445.png"
     },
     {
       "basename": "操作系统",
       "path": "八股文/操作系统/操作系统.md"
     },
     {
-      "basename": "零拷贝",
-      "path": "八股文/操作系统/零拷贝.md"
-    },
-    {
       "basename": "git",
       "path": "The Missing Semester/git.md"
+    },
+    {
+      "basename": "陷阱、异常、中断、信号",
+      "path": "八股文/操作系统/陷阱、异常、中断、信号.md"
+    },
+    {
+      "basename": "零拷贝",
+      "path": "八股文/操作系统/零拷贝.md"
     },
     {
       "basename": "算法基础课",
@@ -31,10 +39,6 @@
     {
       "basename": "内存",
       "path": "八股文/操作系统/内存.md"
-    },
-    {
-      "basename": "地址空间",
-      "path": "八股文/操作系统/地址空间.md"
     },
     {
       "basename": "IO模型",
@@ -195,10 +199,6 @@
     {
       "basename": "第二章：数据模型与查询语言",
       "path": "database/ddia/第二章：数据模型与查询语言.md"
-    },
-    {
-      "basename": "24-distributedolap_note",
-      "path": "24-distributedolap_note.pdf"
     }
   ],
   "omittedPaths": [],
